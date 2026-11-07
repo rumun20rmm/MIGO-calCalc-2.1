@@ -1,0 +1,25 @@
+{
+  "short_name": "MIGO.calCalc",
+  "name": "MIGO calCalc - Personalny Kalkulator Kalorii",
+  "icons": [
+    {
+      "src": "ikona MIGO calCalc 1.6 192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "ikona MIGO calCalc 1.6 512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "./",
+  "id": "com.migocalcalc.app",
+  "description": "MIGO.calCalc is a fast, private, and intuitive calorie and macronutrient tracker powered by Gemini AI, designed to make food logging as effortless as having a conversation or recognizing meals from Photo\n\nKey Features:\n- Natural Input &amp; Voice Support: Log meals using natural text or voice commands—no need to search through tedious food databases.\n- Comprehensive Macro Tracking: Track calories, protein, fats, carbs, and sugars with clean, interactive charts.\n- Built-in Calendar &amp; History: Easily view, edit, and organize your logged meals across days.\n- Privacy &amp; Local Data Control: All your nutrition data remains stored locally on your device with full export/import capabilities.\n- Modern PWA Design: Fast, responsive interface with Dark Mode support and multi-language capabilities (English &amp; Polish).\n\nSimplify your nutrition logging and hit your health goals with MIGO.cal!",
+  "lang": "pl"
+}
